@@ -17,9 +17,3 @@ git clone "nome do repositor"
 
 diferente - !==
 igual - ===
-
-
-# sla oq
-
-parseFloat = numeros com virgula
-parseInt = numeros inteiros
